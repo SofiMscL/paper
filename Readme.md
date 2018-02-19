@@ -1,5 +1,5 @@
 
-# The wonders of macro economics in a Brexit Climate
+# The wonders of macro economics in a non-Brexit Climate
 
 ## Introduction
 
