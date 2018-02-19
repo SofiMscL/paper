@@ -17,7 +17,7 @@ I love git!
 we have read papers by illustrious academics
 
 ## Theory
-
+Maybe I have a new idea
 I really don't know ahh
 
 ## conclusion
