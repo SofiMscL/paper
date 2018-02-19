@@ -4,6 +4,7 @@
 ## Introduction
 
 This paper discusses ..
+I love git!
 
 ## background
 
