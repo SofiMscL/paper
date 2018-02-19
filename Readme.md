@@ -5,10 +5,10 @@
 
 This paper discusses ..
 
-#background
+## background
 
-we have read some papers
+we have read papers by illustrious academics
 
-##conclusion
+## conclusion
 
-we discussed blah blah blah
+we discussed blah blah blah...
