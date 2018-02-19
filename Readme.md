@@ -9,6 +9,10 @@ This paper discusses ..
 
 we have read papers by illustrious academics
 
+## Theory
+
+I really don't know ahh
+
 ## conclusion
 
 we discussed blah blah blah...
